@@ -2,3 +2,4 @@ A neural network from scratch using NumPy to recognize handwritten digits from t
 data loading and preprocessing. The model was trained using key machine learning concepts like backpropagation and gradient
 descent to accurately classify digits using mathematical models and activation function equations
 
+https://www.kaggle.com/code/antonyshibupaul/mnist-with-numpy-math
